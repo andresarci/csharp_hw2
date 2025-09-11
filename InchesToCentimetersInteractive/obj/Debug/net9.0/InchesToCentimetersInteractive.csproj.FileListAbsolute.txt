@@ -1,0 +1,15 @@
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/bin/Debug/net9.0/InchesToCentimetersInteractive
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/bin/Debug/net9.0/InchesToCentimetersInteractive.deps.json
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/bin/Debug/net9.0/InchesToCentimetersInteractive.runtimeconfig.json
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/bin/Debug/net9.0/InchesToCentimetersInteractive.dll
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/bin/Debug/net9.0/InchesToCentimetersInteractive.pdb
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.AssemblyInfoInputs.cache
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.AssemblyInfo.cs
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.csproj.CoreCompileInputs.cache
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.sourcelink.json
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.dll
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/refint/InchesToCentimetersInteractive.dll
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.pdb
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/InchesToCentimetersInteractive.genruntimeconfig.cache
+/Users/andresarciniegas/Desktop/C#/csharp_hw2/InchesToCentimetersInteractive/obj/Debug/net9.0/ref/InchesToCentimetersInteractive.dll
